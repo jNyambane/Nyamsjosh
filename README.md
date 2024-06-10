@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua N
 - 👀 I’m interested in web development and coding
-- 🌱 I’m currently learning Sololearn
+- 🌱 I’m currently learning at Moringa 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
